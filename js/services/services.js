@@ -1,8 +1,8 @@
 //### SERVER CONFIG
 const server = {
-    get: 'http://localhost:3000/menu',
-    post:'http://localhost:3000/requests',
-    url: 'http://localhost:3000'
+    get: 'https://foodgamma.vercel.app/menu',
+    post:'https://foodgamma.vercel.app/requests',
+    url: 'https://foodgamma.vercel.app'
   };
 
 // Async/Await ES(8)
